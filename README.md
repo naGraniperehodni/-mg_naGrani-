@@ -93,12 +93,12 @@ opacity:0.7;
 Наш TGK
 </a>
 
-<a class="btn" href="#">
+<a class="btn" href="https://t.me/naGraniucshop">
 <i class="fas fa-coins"></i>
 UC Shop
 </a>
 
-<a class="btn" href="#">
+<a class="btn" href="https://t.me/naGranishop">
 <i class="fas fa-crosshairs"></i>
 Metro Shop
 </a>
